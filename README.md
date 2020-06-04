@@ -8,6 +8,7 @@
 3) After the installation is done, run the following command:
 `npm start`
 
+#### You can also access this at: https://tranquil-fjord-13119.herokuapp.com/
 
 ### Backend (Steps To Run)
 

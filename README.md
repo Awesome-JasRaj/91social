@@ -2,6 +2,8 @@
 
 ### Frontend (Steps To Run)
 
+Library/Framework Used: ReactJS
+
 1) Go to the frontend directory.
 2) Run the following command:
 `npm install`
@@ -11,6 +13,9 @@
 #### You can also access this at: https://tranquil-fjord-13119.herokuapp.com/
 
 ### Backend (Steps To Run)
+
+Library/Framework Used: NodeJS
+
 
 1) Go to the backend directory.
 2) Run the following command:
